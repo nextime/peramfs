@@ -1,6 +1,9 @@
 PeRamFS - Permanent Ram File system
 ====================================
 
+WARNING: THE FILE SYSTEM ISN'T YET FUNCTIONAL. DON'T USE IT!!!
+--------------------------------------------------------------
+
 FUSE filesystem copy a real permanent file system in ram and the work completely as 
 a commong ramfs, but it has the ability to lock read/write operations to safely copy content
 in the permanent storage.
